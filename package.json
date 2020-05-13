@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "Workout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richy163/Workout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
+  "bugs": {
+    "url": "https://github.com/richy163/Workout/issues"
+  },
+  "homepage": "https://github.com/richy163/Workout#readme"
+}
